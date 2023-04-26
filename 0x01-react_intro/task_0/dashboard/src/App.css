@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: red;
+  padding-left: 3rem;
+  border-bottom: 3px solid red;
+}
+.App-header image{
+  height: 10rem;
+  margin-right: 1rem;
+}
+
+.App-body {
+  font-size: 1rem;
+  padding: 7rem;
+  border-bottom: 3-px solid red;
+}
+.App-footer {
+  padding: 1rem;
+  font-style: italic;
+  font-size: 0.8rem;
+  text-align: center;
+  font-weight: bolder;
+}
